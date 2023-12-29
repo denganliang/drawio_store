@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T12:57:53.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="H04eUySrbcyr7bHb1XBk" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T13:12:03.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9nvgK_VcxPwT4dhrfIo8" version="22.1.16" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2026" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,11 @@
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1590" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="1374" target="acqs4JBvhIZbfSe7umoF-1589">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1642" value="师徒" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="acqs4JBvhIZbfSe7umoF-1590">
+          <mxGeometry x="-0.0625" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1374" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;马丁·塞利格曼&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="608.5" y="263.5" width="130" height="40" as="geometry" />
@@ -119,10 +124,10 @@
         <mxCell id="acqs4JBvhIZbfSe7umoF-1576" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1542" target="acqs4JBvhIZbfSe7umoF-1574">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acqs4JBvhIZbfSe7umoF-1542" value="个体心理学：目的论" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1542" value="个体心理学：目的论&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;维也纳第二心理学派&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="437" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="acqs4JBvhIZbfSe7umoF-1546" value="精神分析：原因论" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1546" value="心理分析：原因论&lt;br&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;维也纳第一心理学派&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="608.5" y="700" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1597" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1551" target="acqs4JBvhIZbfSe7umoF-1596">
@@ -237,13 +242,70 @@
           <mxGeometry x="1540" y="-10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1618" value="心理咨询" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#7EA6E0;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="618.5" y="850" width="120" height="120" as="geometry" />
+          <mxGeometry x="1038.5" y="1090" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="acqs4JBvhIZbfSe7umoF-1619" style="endArrow=none;strokeWidth=6;strokeColor=#7EA6E0;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="acqs4JBvhIZbfSe7umoF-1618">
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1619" style="endArrow=none;strokeWidth=6;strokeColor=#7EA6E0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1515" target="acqs4JBvhIZbfSe7umoF-1618">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="840" as="sourcePoint" />
             <mxPoint x="700" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1620" value="应用类" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#97D077;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="930" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1621" style="endArrow=none;strokeWidth=6;strokeColor=#97D077;html=1;exitX=0.033;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1515" target="acqs4JBvhIZbfSe7umoF-1620">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="948.5" y="1030" as="sourcePoint" />
+            <mxPoint x="674.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1624" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#97D077;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1620" target="acqs4JBvhIZbfSe7umoF-1627">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="613.48" y="844" as="sourcePoint" />
+            <mxPoint x="475" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1631" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1627" target="acqs4JBvhIZbfSe7umoF-1628">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1632" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1627" target="acqs4JBvhIZbfSe7umoF-1629">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1633" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1627" target="acqs4JBvhIZbfSe7umoF-1630">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1627" value="婚恋" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="870" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1628" value="《假如婚前我知道》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1629" value="《分手心理学》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="870" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1630" value="《如何避免孤独终老》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="930" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1639" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1636" target="acqs4JBvhIZbfSe7umoF-1638">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1636" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;维克多·弗兰克尔&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="770" y="437" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1637" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1636" target="1350">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="924" y="394.7" as="sourcePoint" />
+            <mxPoint x="780" y="396.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1641" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1638" target="acqs4JBvhIZbfSe7umoF-1640">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1638" value="意义疗法与存在注意分析&lt;br&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;维也纳第三心理学派&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="437" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1640" value="《活出生命的意义》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="510" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
