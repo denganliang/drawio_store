@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T13:12:03.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9nvgK_VcxPwT4dhrfIo8" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T13:44:58.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="08lIqnP1uEW_Kh-l8hbU" version="22.1.16" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2026" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
           <mxGeometry x="480" y="90.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1612" value="人物离世" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="50.75" width="120" height="40" as="geometry" />
+          <mxGeometry x="1540" y="41.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1613" value="人物在世" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1540" y="-10" width="120" height="40" as="geometry" />
@@ -306,6 +306,99 @@
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1640" value="《活出生命的意义》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="510" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1647" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1645">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1658" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1648">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1649">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1660" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1650">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1661" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1651">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1662" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1652">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1663" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1653">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1664" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1654">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1665" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1655">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1666" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1656">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1667" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1643" target="acqs4JBvhIZbfSe7umoF-1657">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1643" value="&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzU5NTc3NTc2Ng==&amp;amp;mid=2247497497&amp;amp;idx=1&amp;amp;sn=8f5313b7c4ecc7e8954e61f6fb94027c&quot;&gt;心理咨询中的各种疗法&lt;/a&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="888.5" y="1470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1644" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#7EA6E0;html=1;exitX=0.013;exitY=0.667;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1618" target="acqs4JBvhIZbfSe7umoF-1643">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="628" y="1258" as="sourcePoint" />
+            <mxPoint x="440" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1645" value="精神分析疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1648" value="阿德勒疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1268" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1649" value="存在主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1326" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1650" value="人本主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1384" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1651" value="格式塔疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1442" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1652" value="行为主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1500" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1653" value="认知行为疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1558" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1654" value="现实主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1616" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1655" value="女权主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1674" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1656" value="后现代主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1732" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1657" value="家庭系统疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="1790" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1668" value="事业" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="946.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1669" value="人际关系" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1020" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1670" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#97D077;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1620" target="acqs4JBvhIZbfSe7umoF-1668">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="648" y="1060.43" as="sourcePoint" />
+            <mxPoint x="460" y="1002.4300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1671" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#97D077;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.067;exitY=0.767;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1620">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="629.7" y="1059.97" as="sourcePoint" />
+            <mxPoint x="459.7" y="1042.97" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
