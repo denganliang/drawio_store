@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T14:04:17.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5cMqc9IcBQjluumzdVhE" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T14:11:23.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2PnyAqv0BfGUnESneAQ4" version="22.1.16" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3195" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -376,8 +376,8 @@
         <mxCell id="acqs4JBvhIZbfSe7umoF-1680" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1653" target="acqs4JBvhIZbfSe7umoF-1675">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acqs4JBvhIZbfSe7umoF-1653" value="认知行为疗法&lt;br&gt;CBT" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537" y="1588" width="130" height="40" as="geometry" />
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1653" value="认知行为疗法&lt;br&gt;CBT&lt;br&gt;&lt;i&gt;强调认知重构&lt;/i&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="1588" width="130" height="52" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1654" value="现实主义疗法" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="538.5" y="1740" width="130" height="40" as="geometry" />
@@ -410,10 +410,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1672" value="《认知行为疗法入门》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-31.5" y="1548" width="220" height="32" as="geometry" />
+          <mxGeometry x="-31.5" y="1556" width="220" height="32" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1674" value="《认知行为疗法进阶》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-31.5" y="1591" width="220" height="34" as="geometry" />
+          <mxGeometry x="-31.5" y="1597" width="220" height="34" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1675" value="《认知行为疗法咨询方案：10大心理障碍》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="-31.5" y="1640" width="220" height="36" as="geometry" />
@@ -421,8 +421,8 @@
         <mxCell id="acqs4JBvhIZbfSe7umoF-1688" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1681" target="acqs4JBvhIZbfSe7umoF-1687">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acqs4JBvhIZbfSe7umoF-1681" value="接纳承诺疗法&lt;br&gt;ACT" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1690" width="130" height="40" as="geometry" />
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1681" value="接纳承诺疗法&lt;br&gt;ACT&lt;br&gt;&lt;i&gt;强调接纳&lt;/i&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1690" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1683" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1681" target="acqs4JBvhIZbfSe7umoF-1653">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -436,7 +436,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1687" value="《ACT就这么简单：&lt;br&gt;接纳承诺疗法简明操作手册》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1692" width="220" height="36" as="geometry" />
+          <mxGeometry x="-31.5" y="1697" width="220" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1689" value="工具" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#67AB9F;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="850" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1690" style="endArrow=none;strokeWidth=6;strokeColor=#67AB9F;html=1;exitX=0.967;exitY=0.702;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1515" target="acqs4JBvhIZbfSe7umoF-1689">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="930.5" as="sourcePoint" />
+            <mxPoint x="1390" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1691" value="&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIzNDA2NDczMw==&amp;amp;mid=2657688450&amp;amp;idx=1&amp;amp;sn=34acaa4e4a32e391bebf04282d341ac6&quot;&gt;MBTI性格测试&lt;/a&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1050" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1692" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;exitX=0.608;exitY=0.983;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1689" target="acqs4JBvhIZbfSe7umoF-1691">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1361.5" y="1150" as="sourcePoint" />
+            <mxPoint x="1340.5" y="1470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
