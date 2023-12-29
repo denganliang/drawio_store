@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T14:11:23.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2PnyAqv0BfGUnESneAQ4" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T14:21:58.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="y4cl3oSu9cYUr-sGU5FJ" version="22.1.16" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3195" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -454,6 +454,24 @@
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="1361.5" y="1150" as="sourcePoint" />
             <mxPoint x="1340.5" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1693" value="&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.woebot&amp;amp;hl=en_US&quot;&gt;Woebot&lt;/a&gt;&amp;nbsp; CBT软件" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1050" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1694" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="acqs4JBvhIZbfSe7umoF-1693">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1500" y="940" as="sourcePoint" />
+            <mxPoint x="1581.02" y="1012.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1695" value="正念冥想" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="870" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="acqs4JBvhIZbfSe7umoF-1696" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1689" target="acqs4JBvhIZbfSe7umoF-1695">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1500" y="710" as="sourcePoint" />
+            <mxPoint x="1625" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
