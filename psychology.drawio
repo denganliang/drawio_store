@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T12:15:19.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NtLx7J0ljT_3n3qCc_11" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T12:24:08.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nmHSsUNZJ6m-_ITKYqw9" version="22.1.17" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2595" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1416" value="《认知神经科学》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="1430" y="223.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1427" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1416" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
@@ -576,26 +576,53 @@
             <mxPoint x="1322.04" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1518" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2hMtQl7RE3eZvAHJmS9E-1515" target="2hMtQl7RE3eZvAHJmS9E-1517">
+        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1518" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2hMtQl7RE3eZvAHJmS9E-1515" target="2hMtQl7RE3eZvAHJmS9E-1517" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1515" value="睡眠" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1515" value="睡眠" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="305.46" y="1100" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1516" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#97D077;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1620" target="2hMtQl7RE3eZvAHJmS9E-1515">
+        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1516" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#97D077;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="acqs4JBvhIZbfSe7umoF-1620" target="2hMtQl7RE3eZvAHJmS9E-1515" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="650" y="1090" as="sourcePoint" />
             <mxPoint x="459.54" y="1120.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1520" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hMtQl7RE3eZvAHJmS9E-1517" target="2hMtQl7RE3eZvAHJmS9E-1519">
+        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1520" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2hMtQl7RE3eZvAHJmS9E-1517" target="2hMtQl7RE3eZvAHJmS9E-1519" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1517" value="《我们为什么要睡觉》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1517" value="《我们为什么要睡觉》" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="105.46000000000001" y="1100" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1519" value="&lt;div style=&quot;text-align: left;&quot;&gt;失眠认知行为治疗&lt;/div&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+        <mxCell id="2hMtQl7RE3eZvAHJmS9E-1519" value="&lt;div style=&quot;text-align: left;&quot;&gt;失眠认知行为治疗&lt;/div&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="1100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHdG1BGhnHj-3egIrMo-1515" value="《千脑智能》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHdG1BGhnHj-3egIrMo-1516" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.45;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1352" target="jYHdG1BGhnHj-3egIrMo-1515">
+          <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
+            <mxPoint x="1667.26" y="440" as="sourcePoint" />
+            <mxPoint x="1660.26" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYHdG1BGhnHj-3egIrMo-1517" value="《会讲故事的大脑》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="263.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHdG1BGhnHj-3egIrMo-1518" value="《大脑的故事》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHdG1BGhnHj-3egIrMo-1519" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.2;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1352" target="jYHdG1BGhnHj-3egIrMo-1518">
+          <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
+            <mxPoint x="1765" y="573.64" as="sourcePoint" />
+            <mxPoint x="1814" y="380.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYHdG1BGhnHj-3egIrMo-1520" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1352" target="jYHdG1BGhnHj-3egIrMo-1517">
+          <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
+            <mxPoint x="1670.18" y="515.14" as="sourcePoint" />
+            <mxPoint x="1719.18" y="322.14" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
