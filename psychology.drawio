@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T02:27:42.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="6CVa3bFEGL8spQA3PdU6" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T02:46:34.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5aJmfd2nBaxMJngnE-Re" version="22.1.20" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2555" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1691" value="&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIzNDA2NDczMw==&amp;amp;mid=2657688450&amp;amp;idx=1&amp;amp;sn=34acaa4e4a32e391bebf04282d341ac6&quot;&gt;MBTI性格测试&lt;/a&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="1050" width="130" height="40" as="geometry" />
+          <mxGeometry x="1350" y="1160" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1692" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;exitX=0.608;exitY=0.983;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="acqs4JBvhIZbfSe7umoF-1689" target="acqs4JBvhIZbfSe7umoF-1691" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -460,7 +460,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1693" value="&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.woebot&amp;amp;hl=en_US&quot;&gt;Woebot&lt;/a&gt;&amp;nbsp; CBT软件" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="1050" width="130" height="40" as="geometry" />
+          <mxGeometry x="1500" y="1160" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1694" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="acqs4JBvhIZbfSe7umoF-1693" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -478,12 +478,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1695" value="正念冥想" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="870" width="130" height="40" as="geometry" />
+          <mxGeometry x="1598" y="820" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1696" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="acqs4JBvhIZbfSe7umoF-1689" target="acqs4JBvhIZbfSe7umoF-1695" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
-            <mxPoint x="1500" y="710" as="sourcePoint" />
-            <mxPoint x="1625" y="820" as="targetPoint" />
+            <mxPoint x="1527.3023018590488" y="850.8765689447619" as="sourcePoint" />
+            <mxPoint x="1643" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="acqs4JBvhIZbfSe7umoF-1697" value="心理动力学理论" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
@@ -583,7 +583,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7BDmLBGK_MdZjxFAUaA-1515" value="&lt;a href=&quot;http://www.ntneuro.org/scale/scl90.asp&quot;&gt;SCL-90&lt;/a&gt;" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1231" y="1050" width="130" height="40" as="geometry" />
+          <mxGeometry x="1200" y="1160" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q7BDmLBGK_MdZjxFAUaA-1516" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="acqs4JBvhIZbfSe7umoF-1689" target="Q7BDmLBGK_MdZjxFAUaA-1515" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -640,13 +640,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wcvm69QODPxJ4xPN6bJU-1515" value="《Mindfulness for Bipolar Disorder》&lt;br&gt;&amp;nbsp;(William R. Marchand)" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1392" y="750" width="196" height="40" as="geometry" />
+          <mxGeometry x="1410" y="700" width="196" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wcvm69QODPxJ4xPN6bJU-1517" value="《改善情绪的正念疗法》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1614" y="750" width="140" height="40" as="geometry" />
+          <mxGeometry x="1632" y="700" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wcvm69QODPxJ4xPN6bJU-1519" value="《正念的奇迹》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="750" width="100" height="40" as="geometry" />
+          <mxGeometry x="1798" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="28VBUKl1BVRM7Ydfo9cy-1519" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="28VBUKl1BVRM7Ydfo9cy-1515" target="28VBUKl1BVRM7Ydfo9cy-1517" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -674,6 +674,27 @@
         </mxCell>
         <mxCell id="vkoSwzlq3hkrxdAnPfi--1519" value="《萨提亚·家庭治疗问答录》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1916" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vkoSwzlq3hkrxdAnPfi--1524" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vkoSwzlq3hkrxdAnPfi--1521" target="vkoSwzlq3hkrxdAnPfi--1523">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkoSwzlq3hkrxdAnPfi--1526" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vkoSwzlq3hkrxdAnPfi--1521" target="vkoSwzlq3hkrxdAnPfi--1525">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkoSwzlq3hkrxdAnPfi--1521" value="运动" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1598" y="920" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkoSwzlq3hkrxdAnPfi--1522" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#67AB9F;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acqs4JBvhIZbfSe7umoF-1689" target="vkoSwzlq3hkrxdAnPfi--1521">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1512" y="940.5" as="sourcePoint" />
+            <mxPoint x="1606" y="896.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vkoSwzlq3hkrxdAnPfi--1523" value="《跑步圣经》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkoSwzlq3hkrxdAnPfi--1525" value="《当我在谈跑步的时候，&lt;br&gt;我谈些什么》" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1814" y="980" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
